@@ -11,7 +11,7 @@ class Test{
 
 class Demo1 {
     public static void main(String[] args) {
-        Test t = new Test();
+        Demo2 t = new Demo2();
         t.setValues(10);
         t.show();
     }
